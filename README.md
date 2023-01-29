@@ -8,9 +8,9 @@ Data repository for git-squash development &amp; testing
 
 # Notes
 
-Some info.
-
 Some more info.
+
+Some other info.
 
 # References
 
